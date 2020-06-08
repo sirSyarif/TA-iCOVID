@@ -1,6 +1,13 @@
-<h3> TUGAS AKHIR PWPB iCOVID - CORONAVIRUS INFORMATION WEBSITE</h3>
-<h4>ANGGOTA KELOMPOK</4><br>
-1. SYARIF HIDAYAT (Tester, Ketua)<br>
-2. TAUFIK MUHAMMAD RAMADHAN (Front-End Dev)<br>
-3. MUMAMMAD AREEQ AKBAR (Back-End Dev)<br>
-KELAS XI RPL 1
+<p class="has-line-data" data-line-start="6" data-line-end="7">PEMBAGIAN TUGAS PWPB TUGAS AKHIR</p>
+<pre><code>Nama Anggota : 
+- Muhammad Ariq Akbar Hibaturrohman (Designer &amp; Data Collector &amp; Tester)
+Bertugas untuk mendesign tampilan web, mengumpulkan data, dan mentesting 
+project
+
+- Taufik Muhamad Ramadhan (Front-End Designer)
+Membuat Design Layout, dengan menggunakan html dan css, agar indah 
+untuk dilihat oleh pengunjung
+
+- Syarif Hidayat (Back-End Programmer)
+Bertugas lebih banyak berhubungan dengan sistem atau Databases
+</code></pre>
